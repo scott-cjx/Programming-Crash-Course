@@ -1,6 +1,6 @@
 # VSCode
 
-[VScode](https://code.visualstudio.com/] is one of the most used code editor. 
+[VScode](https://code.visualstudio.com/) is one of the most used code editor. 
 
 It is basically a "Microsoft Word" for code but gives a programmer essential functions such as `code highlighting` and `linting`.
 
@@ -10,7 +10,7 @@ VSCode has a pletora of extentions for almost all the purposes a programmer will
 
 ### Download VSCode
 
-Use this [link]https://code.visualstudio.com/) to download VSCode.
+Use this [link](https://code.visualstudio.com/) to download VSCode.
 
 
 ### Getting Started
