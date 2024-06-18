@@ -1,5 +1,5 @@
-site_name: My Docs
-site_url: https://mydomain.org/mysite
+site_name: Programming Crash Course
+site_url: https://scott-cjx.github.io/Programming-Crash-Course/
 theme:
   name: material
   features:
