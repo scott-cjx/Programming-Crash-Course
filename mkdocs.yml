@@ -14,6 +14,11 @@ nav:
   - Home: README.md
   - Github: github/README.md
   - VSCode: vscode/README.md
-  - Basics: logic/README.md
+  - Basics:
+    - Home: basics/README.md
+    - Variables: basics/variables.md
+    - Arithmetics: basics/arithmetic.md
+    - Control Flow: basics/control-flow.md
+
   - Python: python/README.md
   
