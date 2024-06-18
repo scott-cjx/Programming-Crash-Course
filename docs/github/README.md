@@ -10,11 +10,13 @@ Github has many uses but the most common use is to version and store code and do
 
 ### Create a Github account.
 
-follow this [link](https://github.com/signup) to sign up.
+Use this [link](https://github.com/signup) to sign up.
+
 
 ### Download Github locally
 
-follow this [link](https://desktop.github.com/) to download Github Desktop, a Graphical User Interface version of Github. (for beginners)
+Use this [link](https://desktop.github.com/) to download Github Desktop, a Graphical User Interface version of Github. (for beginners)
+
 
 ### Create a repository
 
@@ -29,4 +31,6 @@ There are many ways to create a repository and link it to github, but this is on
 6. Click on (Green) `Code`, 
 ![clone-repo-page](./clone-repo-page1.png)
 7. Select `Open with Github Desktop`
-8. todo
+8. 
+
+todo...

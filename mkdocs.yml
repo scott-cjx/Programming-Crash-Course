@@ -12,4 +12,7 @@ markdown_extensions:
 
 nav:
   - Home: README.md
-  - Help: help.md
+  - Github: github/README.md
+  - VSCode: vscode/README.md
+  - Python: python/README.md
+  
