@@ -1,10 +1,15 @@
 site_name: Programming Crash Course
 site_url: https://scott-cjx.github.io/Programming-Crash-Course/
+repo_name: scott-cjx/Programming-Crash-Course
+repo_url: https://github.com/scott-cjx/Programming-Crash-Course
+
 theme:
   name: material
   features:
     - content.tabs.link
     - navigation.instant
+  icon:
+    repo: fontawesome/brands/git-alt 
 
 markdown_extensions:
   - pymdownx.tabbed:
