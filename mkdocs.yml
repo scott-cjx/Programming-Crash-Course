@@ -20,6 +20,11 @@ theme:
   features:
     - content.tabs.link
     - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+
   icon:
     repo: fontawesome/brands/git-alt 
 
