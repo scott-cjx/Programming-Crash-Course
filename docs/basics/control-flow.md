@@ -8,7 +8,6 @@ Control Flow is used to determine what code gets executed.
 
 Conditions are statements that result in a [boolean](./variables.md#boolean).
 
-!!! Examples
 ``` python
 ans = "the sky red?"
 # ans = No
@@ -21,10 +20,22 @@ ans = "the sky red?"
 If-else are statement in which if the condition is true, the if block code is executed.
 For values where condition is false, the else block is executed.
 
-!!! Examples
+``` mermaid
+graph LR
+  A[Start]
+  B{"Am I Tired"}
+  C["Sleep"]
+  D["Code More"]
+  E["Do Something"]
+
+  A --> B
+  B -- Yes --> C --> E
+  B -- No --> D ---> E
+```
+
 ``` python
 ans = 2
-if ans>=0:
+if ans >= 0:
   return "Yes"
 else:
   return "No"
@@ -36,7 +47,7 @@ In this example, 2>0, hence return Yes.
 
 ### For Loop
 For loop goes through a sequence of element one by one, executing the block of code within itself
-!!! Examples
+
 ``` python
 friends = ["alice","bella","charlie"]
 for i in friends:
@@ -49,12 +60,12 @@ for i in friends:
 
 ### While Loop
 While loop executes the block of code within itself as long as the condition holds true
-!!! Examples
+
 ``` python
 number = 5
-while number>0: 
+while number > 0: 
   print (number)
-  number-=1  #reduces number by one each time, i.e. 5-1=4, 4-1=3, etc
+  number -= 1  #reduces number by one each time, i.e. 5-1=4, 4-1=3, etc
 ''' Output: 5
             4
             3
