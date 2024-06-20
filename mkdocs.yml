@@ -20,9 +20,9 @@ theme:
   features:
     - content.tabs.link
     - navigation.instant
-    - navigation.tracking
-    - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tracking
+    # - navigation.tabs
+    # - navigation.tabs.sticky
     - navigation.sections
 
   icon:
