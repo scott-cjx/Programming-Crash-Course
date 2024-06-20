@@ -4,6 +4,7 @@ theme:
   name: material
   features:
     - content.tabs.link
+    - navigation.instant
 
 markdown_extensions:
   - pymdownx.tabbed:
