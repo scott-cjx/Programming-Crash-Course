@@ -48,6 +48,19 @@ In this example, 2>0, hence return Yes.
 ### For Loop
 For loop goes through a sequence of element one by one, executing the block of code within itself
 
+``` mermaid
+graph LR
+  A[Start]
+  B{"For Condition"}
+  C["Execute<br>code below"]
+  D["Exit the loop"]
+  E["Move on"]
+
+  A --> B
+  B -- In range ---> C --> B
+  B -- Out of range --> D --> E
+```
+
 ``` python
 friends = ["alice","bella","charlie"]
 for i in friends:
@@ -60,6 +73,19 @@ for i in friends:
 
 ### While Loop
 While loop executes the block of code within itself as long as the condition holds true
+
+``` mermaid
+graph LR
+  A[Start]
+  B{"While Sunny"}
+  C["Go out for a run"]
+  D["Exit while loop"]
+  E["Move on to other code segments"]
+
+  A --> B
+  B -- Sunny ---> C --> B
+  B -- Rainy(not sunny) --> D --> E
+```
 
 ``` python
 number = 5
