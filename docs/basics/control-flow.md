@@ -104,5 +104,6 @@ At the point where number =0, while loop terminates.
 Hence, the final number printed is 1.
 
 ### Further Reading: Do-while loop, Nested loops.
-
+- [Do-while loop](https://www.geeksforgeeks.org/python-do-while/#:~:text=condition%20is%20met.-,Do%20while%20loop,-Do%20while%20loop)
+- [Nested loop](https://www.geeksforgeeks.org/python-nested-loops/?ref=header_search#:~:text=and%20Theory%20Components-,Python%20Nested%20Loops,-Last%20Updated%20%3A)
 
