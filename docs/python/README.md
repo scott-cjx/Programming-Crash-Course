@@ -42,7 +42,7 @@ Once download and installion is complete, retry checking if Python is installed.
 Google Colab is a document that allows you to write, run, and share Python code within your browser. It is built around Project Jupyter code and hosts Jupyter notebooks without requiring any local software installation. Google Colab only supports Python.
 
 #### Create a document
-Access Google Colab [here](colab.research.google.com). Once loaded, select "File" at the top left corner, then select "New Notebook". If a box pops up upon loading the site, select "New Notebook" to create a new document.
+Access Google Colab [here](https://colab.research.google.com). Once loaded, select "File" at the top left corner, then select "New Notebook". If a box pops up upon loading the site, select "New Notebook" to create a new document.
 
 #### Basic Functions
 After creating a new notebook, you will see an empty code cell where you can enter Python codes and execute them at any time. Execution of code can be done by:
@@ -61,7 +61,7 @@ Colab notebooks are stored in Google Drive, and they can be shared just as you w
 - The full contents of your notebook will be shared. You can omit code cell output from being saved or shared by using Edit > Notebook Settings > Omit code cell output when saving this notebook.
 
 #### Opening up a closed notebook
-In the [Colab page](colab.research.google.com), clicking on the logo at the top left of the notebook will show all the notebooks in Drive. 
+In the [Colab page](https://colab.research.google.com), clicking on the logo at the top left of the notebook will show all the notebooks in Drive. 
 
 You can also search for notebooks you have used recently using File > Open Notebook.
 
