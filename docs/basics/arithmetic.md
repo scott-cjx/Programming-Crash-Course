@@ -3,6 +3,10 @@
 
 | Operator | Name | Example |
 |----------|----------|----------|
+| + | Addition | x+y |
+| - | Subtraction | x-y |
+| * | Multiplication | x*y |
+| / | Division | x/y |
 | == | Equals | x==y |
 | != | Not Equal | x!=y |
 | > | Greater Than | x>y |
