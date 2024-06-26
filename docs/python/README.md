@@ -65,5 +65,9 @@ In the [Colab page](https://colab.research.google.com), clicking on the logo at 
 
 You can also search for notebooks you have used recently using File > Open Notebook.
 
+#### Exercise for Python
+Click [here](https://colab.research.google.com/drive/1Kr5Tp2PkkmFqe4e7cKB7GZjN4g8r9qHS?usp=sharing) to get some hands-on practice with python! 
+
+
 --- 
 
