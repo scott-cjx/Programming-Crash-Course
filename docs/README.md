@@ -6,15 +6,15 @@ Welcome to the NTU CCDS Coding Workshop! This repository contains all the essent
 
 ## 📚 What to Expect
 
-- **Python:** The fundamentals of programming, starting with Python.
-  - [🐍 Python](./python/README.md)
-
 - **GitHub:** Version control basics and how to manage your code with GitHub.
   - [🛠️ GitHub](./github/README.md)
 
 - **VSCode:** Setting up your development environment using Visual Studio Code.
   - [🖥️ VSCode](./vscode/README.md)
 
+- **Python:** The fundamentals of programming, starting with Python.
+  - [🐍 Python](./python/README.md)
+  
 ## 📄 License
 
 [GPLv3](../LICENSE)
