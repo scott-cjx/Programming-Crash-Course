@@ -36,7 +36,7 @@ For most modern computers, a version of Python should already be installed.
 === "Windows"
     ```shell
     # 1. Open terminal
-    python -version
+    python --version
     ```
 
 === "MacOS"
